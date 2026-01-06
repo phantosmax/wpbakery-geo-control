@@ -2,6 +2,10 @@
 
 A WordPress plugin that adds country-based visibility controls to all WPBakery Page Builder elements.
 
+![Text Block Example](./.github/github_wpbakery_geo_control_1_text_block.png)
+
+![Single Image Example](./.github/github_wpbakery_geo_control_1_single_image.png)
+
 ## Requirements
 
 - WordPress 4.7 or higher
@@ -240,7 +244,7 @@ Ensure your privacy policy mentions use of geolocation services.
 
 ## Support
 
-For issues specific to Zettagrid implementations, contact your development team.
+No Support Provided
 
 For WPBakery Page Builder issues, visit their documentation.
 
@@ -258,7 +262,3 @@ For WPBakery Page Builder issues, visit their documentation.
 ## License
 
 GPL v2 or later
-
-## Credits
-
-Developed for Zettagrid infrastructure and cloud hosting services.
